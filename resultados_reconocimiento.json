@@ -1,0 +1,162 @@
+{
+    "fecha_analisis": "2025-04-14 21:42:10",
+    "dominio_info": {
+        "dominio": "tesla.com",
+        "servidor": "No disponible",
+        "tecnologias": "No disponible",
+        "status_code": 200,
+        "headers": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Drupal-Dynamic-Cache": "MISS",
+            "X-UA-Compatible": "IE=edge",
+            "Content-Language": "en",
+            "Last-Modified": "Fri, 11 Apr 2025 23:47:34 GMT",
+            "ETag": "\"1744415254\"",
+            "X-Generator": "Drupal 9 (https://www.drupal.org)",
+            "X-Drupal-Cache": "HIT",
+            "X-Cache-UUID": "967c06a0-3fd2-4121-a4ae-a1bd0b22d8e5",
+            "Cache-Control": "max-age=10",
+            "X-TZLA-EDGE-HOSTNAME-VCL": "drupal8-prod",
+            "X-TZLA-EDGE-BACKEND-FETCH-IF-STALE": "false",
+            "X-TZLA-EDGE-WAS-304": "false",
+            "X-TZLA-EDGE-Age": "60.000",
+            "X-TZLA-EDGE-Grace": "0.000",
+            "X-TZLA-EDGE-BACKEND-RETRY": "0",
+            "X-TZLA-EDGE-BACKEND-CONN-TIME": "0.000",
+            "X-TZLA-EDGE-BACKEND-TTFB": "0.000",
+            "X-TZLA-EDGE-BACKEND-REASON": "OK",
+            "X-TZLA-EDGE-BACKEND-STATUS": "200",
+            "X-Varnish": "795869405",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Content-Type-Options": "nosniff",
+            "X-TZLA-EDGE-Cache-Hit": "",
+            "X-TZLA-EDGE-TTL": "60.000",
+            "X-TZLA-EDGE-GRACE-BACKEND-UNHEALTHY": "0.000",
+            "X-TZLA-EDGE-BACKEND-STREAM": "true",
+            "X-TZLA-EDGE-CLIENT-RESTARTS": "0",
+            "X-TZLA-EDGE-CLIENT-REQ-TTL": "-1.000",
+            "X-TZLA-EDGE-Server": "dal11p1tegvr004.cb1.dal11.tzla.net",
+            "X-TZLA-EDGE-Cache-Hits": "0",
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "X-Akamai-Transformed": "0 - 0 -",
+            "Content-Encoding": "gzip",
+            "Date": "Mon, 14 Apr 2025 19:41:40 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "X-AK-Cache": "RefreshHit from child, RefreshHit from parent",
+            "Permissions-Policy": "interest-cohort=()",
+            "Strict-Transport-Security": "max-age=15768000",
+            "Set-Cookie": "bm_s=YAAQGlcQYLshpxyWAQAAVVnSNQMqlDIoafrFPdg+UNfG04uc73JczhCaYYJeBytA0jyRv3AIhkuBDEc/UpFCy5jSQZGUIszdJ8CLqy0xg+z3gtx0JJN/6TcerLBFqlzHwPImpZZPmK7fM49tkf2+PYAA6zQicuprz5ioefLBkYKVE1smytCzwVI4RB+rblYR87FCXgMgLleESILgwC3TRhWI8/uR62RRfK6nR01SQ4irsKt4pTaRF8+bobXjO8rm5OiTtWioojirCxy0p2BEkXahGirObY1kztpIoZBit9OO720wea5juoKE3MXv6j6dhMXRLVFDKRsdpHwtU14fQIre1W8Y0tZ3xQtACQPIA8w9uN2ck+RIxQpQukz5UZEdwhNC0LIZX42S1RenIbCZ1wG63iqUQyYksIPKKNgSyLwA1XqvjNabuI3OEyAr8Ww8QQ70nLWLnNkvvmYoew==; Domain=.tesla.com; Path=/; Expires=Thu, 15 May 2025 19:41:40 GMT; Max-Age=2678400; Secure; HttpOnly, bm_so=25304405A4768E0A6075611848F0C2389202FD86F5D2EA476C231853B1AE42A0~YAAQGlcQYLwhpxyWAQAAVVnSNQOSdp8+Rj8jhZg+gdWn4hGmEVThMh7kDA3QqphijfXa/TYCqqdSFhO52o1YEEzZBJGOq7/nsMLxhyArK9MRUNkRoNoudrYtvTXFFNiXz5eGJwgX8pN1pOe6HardUMDQpvqJV4HPE/Utgk5RR5Mwdh+B1qwqiaGXpkjUWWEhfcMcEI1jZpZqDwIcmmr318oeLN6mBMG2u1sTRVSQ5YCI/o9+/NTIjG+wclO3dlp2Ld+orGVh9OxdB+OrN0c6zLZ4BaTcAtPF0SYCRMEkhum96OUMHEQ8cj6MN0jmiyFgBF6YiXu0IyNNfGctmQ4QLTb61OZiK7pYQ9uXffzkrY0tdxDZuAHC0tQfZ82QD/Eb+jay52D/KG4FbCuFSPCYjO3hEGuRDZvpdQsUjQHIZwKSUd9YH+Ns162JjRjJl/Ax0d2C2O3N8aiRbU7y; Domain=.tesla.com; Path=/; Expires=Tue, 15 Apr 2025 19:41:40 GMT; Max-Age=86400; Secure"
+        }
+    },
+    "ip": "23.40.100.207",
+    "subdominios": [
+        {
+            "subdominio": "static.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 404
+        },
+        {
+            "subdominio": "service.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 200
+        },
+        {
+            "subdominio": "partners.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 200
+        },
+        {
+            "subdominio": "mobile.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 200
+        },
+        {
+            "subdominio": "developer.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 200
+        },
+        {
+            "subdominio": "stream.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 200
+        },
+        {
+            "subdominio": "billing.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 200
+        },
+        {
+            "subdominio": "pay.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": 200
+        },
+        {
+            "subdominio": "www.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": "No accesible"
+        },
+        {
+            "subdominio": "shop.tesla.com",
+            "ip": "2.16.224.49",
+            "status_code": "No accesible"
+        },
+        {
+            "subdominio": "vpn2.tesla.com",
+            "ip": "8.47.24.215",
+            "status_code": "No accesible"
+        },
+        {
+            "subdominio": "events.tesla.com",
+            "ip": "13.111.47.195",
+            "status_code": "No accesible"
+        },
+        {
+            "subdominio": "meet.tesla.com",
+            "ip": "209.133.79.61",
+            "status_code": "No accesible"
+        }
+    ],
+    "headers_seguridad": {
+        "Error": "HTTPSConnectionPool(host='tesla.com', port=443): Read timed out. (read timeout=5)"
+    },
+    "info_adicional": "Servidor:  192.168.1.1\nAddress:  192.168.1.1\n\nNombre:  tesla.com\nAddresses:  2.18.52.207\n\t  23.40.100.207\n\t  2.18.49.207\n\t  2.18.48.207\n\t  23.7.244.207\n\t  2.18.51.207\n\t  2.18.50.207\n\t  2.18.55.207\n\t  2.18.54.207\n\t  2.18.53.207\n\n",
+    "info_empleados": {
+        "roles_comunes": [
+            "Software Engineer",
+            "Data Scientist",
+            "Security Engineer",
+            "Network Administrator",
+            "DevOps Engineer",
+            "UI/UX Designer"
+        ],
+        "tecnologias_mencionadas": [
+            "Python",
+            "Java",
+            "AWS",
+            "Kubernetes",
+            "TensorFlow",
+            "React",
+            "Angular",
+            "Docker",
+            "Jenkins",
+            "Terraform"
+        ],
+        "departamentos_identificados": [
+            "Autopilot",
+            "Infotainment",
+            "Security",
+            "Cloud Infrastructure",
+            "Manufacturing Systems",
+            "Solar Energy",
+            "Vehicle Software"
+        ]
+    },
+    "puertos": {
+        "80": "Abierto",
+        "443": "Abierto",
+        "8080": "Cerrado/Filtrado",
+        "22": "Cerrado/Filtrado"
+    }
+}

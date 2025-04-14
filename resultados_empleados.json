@@ -1,0 +1,90 @@
+{
+    "dominio": "tesla.com",
+    "fecha_analisis": "2025-04-14 22:01:46",
+    "empleados": [
+        {
+            "nombre": "Agata Kolodziej",
+            "correo": "akolodziej@tesla.com",
+            "tipo": "personal",
+            "posicion": "Recruiter",
+            "departamento": null
+        },
+        {
+            "nombre": "Asia Nannini",
+            "correo": "anannini@tesla.com",
+            "tipo": "personal",
+            "posicion": "Event Coordinator",
+            "departamento": "operations"
+        },
+        {
+            "nombre": "Chandra Veedhi",
+            "correo": "schandra@tesla.com",
+            "tipo": "personal",
+            "posicion": "Design Verification Engineer",
+            "departamento": "design"
+        },
+        {
+            "nombre": "Loris Germano",
+            "correo": "lgermano@tesla.com",
+            "tipo": "personal",
+            "posicion": "Account Manager",
+            "departamento": "sales"
+        },
+        {
+            "nombre": "Dick Wassenaar",
+            "correo": "dwassenaar@tesla.com",
+            "tipo": "personal",
+            "posicion": "Store Manager",
+            "departamento": "management"
+        },
+        {
+            "nombre": "Avishek Banerji",
+            "correo": "abanerji@tesla.com",
+            "tipo": "personal",
+            "posicion": "Supply Chain Analyst",
+            "departamento": "operations"
+        },
+        {
+            "nombre": "Olivier Chojnowski",
+            "correo": "ochojnowski@tesla.com",
+            "tipo": "personal",
+            "posicion": "Account Manager",
+            "departamento": "sales"
+        },
+        {
+            "nombre": "Michel Debatty",
+            "correo": "mdebatty@tesla.com",
+            "tipo": "personal",
+            "posicion": "Senior Account Manager",
+            "departamento": "sales"
+        },
+        {
+            "nombre": "Matteo Franciolini",
+            "correo": "mfranciolini@tesla.com",
+            "tipo": "personal",
+            "posicion": "Machine Learning Compiler Engineer",
+            "departamento": "education"
+        },
+        {
+            "nombre": "Julian Swalus",
+            "correo": "jswalus@tesla.com",
+            "tipo": "personal",
+            "posicion": "Sales Manager",
+            "departamento": "sales"
+        }
+    ],
+    "estadisticas": {
+        "total_empleados": 0,
+        "dominios_relacionados": [],
+        "departamentos": {
+            "operations": 2,
+            "design": 1,
+            "sales": 4,
+            "management": 1,
+            "education": 1
+        }
+    },
+    "tecnologias": {
+        "error": "HTTPSConnectionPool(host='tesla.com', port=443): Read timed out. (read timeout=10)"
+    }
+}

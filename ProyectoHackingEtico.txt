@@ -1,0 +1,12 @@
+
+Ejercicio final de Hacking Ético
+
+Se pide:
+Conociendo únicamente el nombre de la organización (https://www.tesla.com/es_es) se debe buscar toda la información posible sobre esta. 
+Dentro de las fases del análisis, únicamente contemplaremos las fases de reconocimiento (reconocimiento, fingerprinting) 
+y escaneo (comandos básicos y puertos, servicios).
+
+Como resultado de este ejercicio:
+Se debe mostrar la información encontrada: (por ejemplo: información sobre empleados, dominios, IP, servidores públicos, 
+y cualquier información extra), las herramientas utilizadas y la fase a la que corresponde cada tipo de prueba. 
+La información se puede agrupar, por ejemplo, por fases, explicando los pasos que se han seguido, etc.
